@@ -10,4 +10,4 @@ app.get('/plans.html', (_, res) => {
     res.sendFile(__dirname + '/plans.html');
 });
 
-app.listen(1488);
+app.listen(3000);
